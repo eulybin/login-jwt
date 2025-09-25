@@ -8,7 +8,7 @@ const Signup = () => {
         <form>
           <div className='mb-3'>
             <label htmlFor='exampleInputEmail1' className='form-label'>
-              Username
+              Email
             </label>
             <input type='email' className='form-control' id='exampleInputEmail1' aria-describedby='emailHelp' />
           </div>
