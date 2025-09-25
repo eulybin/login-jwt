@@ -5,8 +5,8 @@ export const Home = () => {
 
   return (
     <div className='container'>
-      <div className='row text-center'>
-        <h1>Home Component</h1>
+      <div className='row text-center text-white mt-5'>
+        <h1 className='display-1 mt-5'>Home Component</h1>
       </div>
     </div>
   );
